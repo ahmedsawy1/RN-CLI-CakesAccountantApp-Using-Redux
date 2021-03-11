@@ -1,0 +1,7 @@
+export const SELL_ONE_CAKE = 'SELL_ONE_CAKE';
+export const MAKE_ONE_CAKE = 'MAKE_ONE_CAKE';
+
+export const SELL_NUMBER_CAKES = 'SELL_NUMBER_CAKES';
+export const MAKE_NUMBER_CAKE = 'MAKE_NUMBER_CAKE';
+
+export const EMPTY_PROFITS = 'EMPTY_PROFITS';
